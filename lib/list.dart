@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
 void main() {
-
-  //18 Dart List
   var city = ['Dhaka', 'Rangpur', 'Feni'];
   var result = city;
 
